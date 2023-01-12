@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "932333203792",
+    "project_id": "lepton-teleop-57d6d",
+    "storage_bucket": "lepton-teleop-57d6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932333203792:android:9050452908c3b607923c55",
+        "android_client_info": {
+          "package_name": "com.example.tele_op"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932333203792-cs40jlqkqtip5j83afqj4egqbjq89vf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3gyttCEGTGGM5ZniwRCZDk0HP6yzcdg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932333203792-cs40jlqkqtip5j83afqj4egqbjq89vf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
